@@ -1,0 +1,11 @@
+eat
+sweat
+bark
+barkeatsweat
+cold
+coldsweatbark
+barkeatsweatcold
+run
+coldsweatbarkrun
+barkeatsweatcoldrun
+coldrun
